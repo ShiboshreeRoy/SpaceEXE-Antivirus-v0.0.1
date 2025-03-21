@@ -1,0 +1,5 @@
+watchdog
+colorama
+requests
+tkinter
+
