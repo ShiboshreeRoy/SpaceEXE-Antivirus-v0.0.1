@@ -1,7 +1,9 @@
 # SpaceEXE Antivirus v0.0.1
 
 🚀 **SpaceEXE Antivirus** is an advanced real-time antivirus tool designed for Python malware detection. It includes real-time monitoring, automatic virus definition updates, and a graphical user interface.
-!(SpaceEXE)[./demo/SpaceEXE.png]
+---
+![space exe Demo](./demo/SpaceEXE.png)
+
 ## Features
 ✅ **Real-Time File Monitoring** – Detects new or modified files instantly.
 ✅ **Cloud-Based Virus Updates** – Always stay up to date with the latest threats.
